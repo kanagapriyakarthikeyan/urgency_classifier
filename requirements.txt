@@ -3,5 +3,4 @@ uvicorn
 numpy
 scikit-learn
 pandas
-
-
+tensorflow-cpu
